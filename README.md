@@ -65,9 +65,8 @@ cap = cv2.VideoCapture('video.mp4')
 ```
 
 ## :key: Results
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Face-Mask-Detection/assets/113416452/3ec2b595-81b6-4d9f-8cba-857375c18337"/>
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Face-Mask-Detection/assets/113416452/1bbbf053-5c6b-4512-b0ac-4a7ceca0a565"/>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Face-Mask-Detection/assets/113416452/94004ca7-917e-462f-83ea-30dddae97c17"/>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Face-Mask-Detection/assets/113416452/a33c0a2f-6f68-4738-aed5-437be10d8d25"/>
   
-
 
 
